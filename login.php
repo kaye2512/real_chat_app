@@ -24,7 +24,7 @@
                         <input type="submit" value="Confirmez">
                     </div>
                 </form>
-                <div class="link">Vous avez pas encore de compte? <a href="index.php">Créer un compte!</a></div>
+                <div class="link">Vous avez pas encore de compte? <a href="inscription.php">Créer un compte!</a></div>
             </section>
         </div>
         <script src="js/pass-show-hide.js"></script>
