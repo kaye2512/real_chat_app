@@ -14,16 +14,16 @@
                     <div class="erreur-txt"></div>
                     <div class="name-details">
                         <div class="field input">
-                            <label>First Name</label>
+                            <label>nom</label>
                             <input type="text" name="nom" placeholder="nom" required>
                         </div>
                         <div class="field input">
-                            <label>Last Name</label>
+                            <label>prénom</label>
                             <input type="text" name="prenom" placeholder="prénom" required>
                         </div>
                     </div>
                     <div class="field input">
-                            <label>Email Address</label>
+                            <label>Adresse mail</label>
                             <input type="text" name="email" placeholder="Entrez votre Email" required>
                     </div>
                     <div class="field input">
